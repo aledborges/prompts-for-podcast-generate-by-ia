@@ -5,13 +5,6 @@
 />
 </p>
 
-<div align="center">
-    <audio src="https://github.com/aledborges/prompts-for-podcast-generate-by-ia/tree/main/output/podcast_mente_digital_editado.mp3" controls title="Podcast editado"></audio>
-</div>
-
-<p align="center">[Link do podcast no Youtube](https://youtu.be/2eS_s253Nes)</p>
-
-
 # Projeto Podcast Gerado por I.A.s
 
 
@@ -34,6 +27,10 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 - Clipchamp para tratar aúdio e adicionar sons de fundo e montar vídeo para youtube
 
 
+## 💻 Materias produzidos
+
+- [Link para o áudio do podcast](https://github.com/aledborges/prompts-for-podcast-generate-by-ia/tree/main/output/https://github.com/aledborges/prompts-for-podcast-generate-by-ia/tree/main/output/podcast_mente_digital_editado.mp3) 
+- [Link para o vídeo no Youtube](https://youtu.be/2eS_s253Nes)
 
 
 
