@@ -1,0 +1,6 @@
+Leonardo Ai：
+
+|   Style   | Anime General                                                                                                                                                                                                                                                                         |
+|   Image Dimensions   | 1:1 Medium                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  capa  | Crie uma imagem em desenho animado de uma profissional de podcast mulher entre 35 e 45 anos, morena e com olhos castanhos em um ambiente com gravação de áudio e decorado com vários artigos que remetem a tecnologia e elementos da cultura nerd. A imagem é para um podcast com o título Mente Digital.  |
